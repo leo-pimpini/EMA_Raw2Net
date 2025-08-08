@@ -13,4 +13,4 @@ Pre-processing phase (input data = raw data)
 Network analysis phase (input data = Processed_4VAR)
 4. Net_estim_EMA_Monitoring
 
-IMPORTANT: data (raw + processed) can be downloaded here: 
+IMPORTANT: fully anonimyzed data (raw + processed) can be downloaded here: 
