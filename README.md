@@ -14,4 +14,4 @@ Network analysis phase (input data = Processed_data)
 
 4. Net_estim_EMA_Monitoring
 
-IMPORTANT: fully anonimyzed data (raw + processed) can be downloaded here: 
+IMPORTANT: data (raw + processed) can be downloaded here: https://osf.io/fsqpv/ 
