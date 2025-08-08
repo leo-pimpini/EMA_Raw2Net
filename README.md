@@ -1,5 +1,5 @@
-# Raw2Net
-Raw2Net is an R pipeline that span from raw Ecological Momentary Assessment (EMA) data until network analysis using mlVAR (multi-level Vector Autoregressive Modeling).
+# EMA_Raw2Net
+EMA_Raw2Net is an R pipeline that span from raw Ecological Momentary Assessment (EMA) data until network analysis using mlVAR (multi-level Vector Autoregressive Modeling).
 Specifically this pipeline is tailored for a dataset (fully anonymized) investigating whether manipulating frequecy of monitoring affects daily unhealthy snacking and craving. 
 Participants were randmly assigned to either a low (3 times/day), medium (6 times/day) and high (9 times/day) monitoring condition. Assessment was done using smartphone-based EMA.
 The EMA protocol lasted 3 weeks independent of the condition. For an overview, see the preprint here: 
