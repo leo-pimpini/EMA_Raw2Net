@@ -10,7 +10,8 @@ Pre-processing phase (input data = raw data)
 2. EMA data preprocessing 
 3. Split data per pp (optional, for addiitonal analyses)
 
-Network analysis phase (input data = Processed_4VAR)
+Network analysis phase (input data = Processed_data)
+
 4. Net_estim_EMA_Monitoring
 
 IMPORTANT: fully anonimyzed data (raw + processed) can be downloaded here: 
