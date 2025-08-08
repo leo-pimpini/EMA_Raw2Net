@@ -8,7 +8,7 @@ Pipeline:
 Pre-processing phase (input data = raw data)
 1. Read-in and merge raw EMA data
 2. EMA data preprocessing 
-3. Split data per pp (optional, for addiitonal analyses)
+3. Split dataset per pp (optional, for addiitonal analyses)
 
 Network analysis phase (input data = Processed_data)
 
