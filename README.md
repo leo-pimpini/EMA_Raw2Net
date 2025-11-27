@@ -5,13 +5,13 @@ Participants were randmly assigned to either a low (3 times/day), medium (6 time
 The duration of the EMA protocol was 3 weeks independent of the condition. For an overview, see the preprint here: 
 Each code is commented to ensure a smoother use and, hopefully, step-by-step understanding.
 
-Pipeline:
+PIPELINE:
 Pre-processing phase (input data = raw data)
 1. Read-in and merge raw EMA data
 2. EMA data preprocessing 
 3. Split dataset per pp (optional, for addiitonal analyses)
 
-4. GLMM (general linear mized effects model)
-5. Net_estim_EMA_Monitoring (Network analysis; input data = Processed_data)
+4. GLMM (general linear mized effects model; one scrpt per variable). Input data = Processed data >> EMA_Merged_AllFreq
+5. Net_estim_EMA_Monitoring (Network analysis with mlVAR). Input data = Processed_data >> Low_freq; Medium_Freq; High_Freq
 
-IMPORTANT: data (raw + processed) can be downloaded here: https://osf.io/fsqpv/ 
+IMPORTANT: data (raw and processed) can be downloaded here: https://osf.io/fsqpv/ 
