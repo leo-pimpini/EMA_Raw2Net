@@ -3,7 +3,7 @@
 Specifically this pipeline is tailored for a dataset (fully anonymized) investigating whether manipulating frequecy of monitoring affects daily unhealthy snacking and craving. 
 Participants were randmly assigned to either a low (3 times/day), medium (6 times/day) and high (9 times/day) monitoring condition. Assessment was done using smartphone-based EMA.
 The duration of the EMA protocol was 3 weeks independent of the condition. For an overview, see the preprint here: 
-Each code is 'heavily' commented to ensure a smoother use and, hopefully, step-by-step understanding.
+Each code is commented to ensure a smoother use and, hopefully, step-by-step understanding.
 
 Pipeline:
 Pre-processing phase (input data = raw data)
@@ -11,8 +11,7 @@ Pre-processing phase (input data = raw data)
 2. EMA data preprocessing 
 3. Split dataset per pp (optional, for addiitonal analyses)
 
-Network analysis phase (input data = Processed_data)
-
-4. Net_estim_EMA_Monitoring
+4. GLMM (general linear mized effects model)
+5. Net_estim_EMA_Monitoring (Network analysis; input data = Processed_data)
 
 IMPORTANT: data (raw + processed) can be downloaded here: https://osf.io/fsqpv/ 
