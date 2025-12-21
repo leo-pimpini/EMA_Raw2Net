@@ -11,9 +11,9 @@ Pre-processing phase (input data = raw data)
 2. EMA data preprocessing 
 3. Split dataset per pp (optional, alternative analyses)
 
-4. GLMM (generalized linear mixed-effects model; one scrpt per variable). Input data = Processed data >> EMA_Merged_AllFreq
-5. Net_estim_EMA_Monitoring (Network analysis with mlVAR). Input data = Processed_data >> Low_freq; Medium_Freq; High_Freq
+4. GLMM (generalized linear mixed-effects model; one scrpt per variable). Input data = Processed data -> EMA_Merged_AllFreq
+5. Net_estim_EMA_Monitoring (Network analysis with mlVAR). Input data = Processed_data -> Low_freq; Medium_Freq; High_Freq
 
 IMPORTANT: data (raw and processed) can be downloaded here: https://osf.io/fsqpv/ 
 
-Change input data path before running the scripts. 
+Change working path before running each script. 
