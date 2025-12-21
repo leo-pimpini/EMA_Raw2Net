@@ -15,4 +15,5 @@ Pre-processing phase (input data = raw data)
 5. Net_estim_EMA_Monitoring (Network analysis with mlVAR). Input data = Processed_data >> Low_freq; Medium_Freq; High_Freq
 
 IMPORTANT: data (raw and processed) can be downloaded here: https://osf.io/fsqpv/ 
-Change inout data path before running the scripts. 
+
+Change input data path before running the scripts. 
