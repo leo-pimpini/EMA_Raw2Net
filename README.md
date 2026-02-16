@@ -10,7 +10,6 @@ Pre-processing phase (input data = raw data)
 1. Read-in and merge raw EMA data
 2. EMA data preprocessing 
 3. Split dataset per pp (optional, alternative analyses)
-___
 4. GLMM (generalized linear mixed-effects model; one scrpt per variable). Input data = Processed data -> EMA_Merged_AllFreq
 5. Net_estim_EMA_Monitoring (Network analysis with mlVAR). Input data = Processed_data -> Low_freq / Medium_Freq / High_Freq (run one subset at a time)
 
