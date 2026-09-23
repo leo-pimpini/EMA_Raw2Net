@@ -5,7 +5,7 @@ Participants were randomly assigned to either a low (3 times/day), medium (6 tim
 The duration of the EMA-protocol was 21 days independent of the condition. A minimum compliance thresholds of 75% per week was set in each condition.  
 Each code is commented to ensure a smoother use, reproducibility and (hopefully) understanding.
 
-PIPELINE:
+PIPELINE (Edit working path before running each script):
 Pre-processing phase (input data = raw data)
 1. Read-in and merge raw EMA data
 2. EMA data preprocessing 
@@ -15,4 +15,4 @@ Pre-processing phase (input data = raw data)
 
 IMPORTANT: data (raw and processed) may be downloaded here: https://osf.io/fsqpv/ 
 
-Edit working path before running each script. 
+Here the published article based on this project: https://doi.org/10.1016/j.eatbeh.2026.102115  
